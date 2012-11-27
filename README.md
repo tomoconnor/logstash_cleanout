@@ -18,5 +18,3 @@ Usage:
 
 --days defaults to 5 if not set.
 
-
- 

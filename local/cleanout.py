@@ -1,1 +1,0 @@
-/home/secretadmin/logstash_cleanout/cleanout.py

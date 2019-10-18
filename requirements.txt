@@ -1,5 +1,5 @@
 argparse==1.2.1
 distribute==0.6.24
 pyes==0.19.1
-urllib3==1.5
+urllib3==1.24.2
 wsgiref==0.1.2
